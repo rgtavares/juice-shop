@@ -29,4 +29,4 @@ jobs:
         with:
           target: 'https://preview.owasp-juice.shop'
           rules_file_name: '.zap/ruless.tsv'
-          cmd options '-a -j'
+          cmd options: '-a -j'
